@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="alipay-sdk-java-3.3.0-source">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-dbutils-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.40-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jackson-annotations-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/aliyun-java-sdk-dysmsapi-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/alipay-sdk-java-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jackson-databind-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jackson-core-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/aliyun-java-sdk-core-3.3.1.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/annotations-api.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/el-api.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/ecj-4.6.3.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/catalina.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/websocket-api.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/catalina-ha.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/tomcat-util.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/catalina-ant.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/catalina-tribes.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/jsp-api.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/tomcat-websocket.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/servlet-api.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/tomcat-jni.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/tomcat-coyote.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/jasper-el.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/javax.websocket-api-1.1.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/javax.websocket-client-api-1.1.jar!/" />
+      <root url="jar://D:/servers/Tomcats/apache-tomcat-8.0.52_8082/lib/jasper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/alipay-sdk-java-3.3.0-source.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
